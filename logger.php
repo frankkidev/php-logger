@@ -19,5 +19,5 @@ curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, 1);
 curl_setopt( $ch, CURLOPT_HEADER, 0);
 curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
 $response = curl_exec( $ch );
-header("Location: http://twojstary2137.xyz/twojstary/");
+header("Location: http://google.com/);
 ?>
