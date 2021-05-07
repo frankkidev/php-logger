@@ -7,7 +7,6 @@ $TheirTime = date('G:i:s');
 $msg = "**IP** $ip 
 **Time** $TheirTime
 **Date** $TheirDate
-**TW2137**
 **--------------------------**";
 $json_data = array ('content'=>"$msg");
 $make_json = json_encode($json_data);
